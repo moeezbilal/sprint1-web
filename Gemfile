@@ -4,7 +4,7 @@
 ruby '1.9.3'
 gem  'mysql2'
 
-# gem 'rails', '3.2.14'
+# gem 'rails', '4.0.1'
 # gem install activerecord-mysql2-adapter
 
 
@@ -14,6 +14,7 @@ gem  'mysql2'
 # Deploy with Capistrano
 # gem 'capistrano'
 
+source 'https://rubygems.org'
 # To use debugger (ruby-debug for Ruby 1.8.7+, ruby-debug19 for Ruby 1.9.2+)
 source 'http://rubygems.org'
 # gem 'ruby-debug'
@@ -36,4 +37,4 @@ gem "cancan"
 gem "jquery-rails"
 #gem "rspec-rails", ">= 2.0.1", :group => [:development, :test]
 #gem "capybara", :group => [:development, :test]
-gem 'twitter-bootstrap-rails', :git => 'http://github.com/seyhunak/twitter-bootstrap-rails.git'
+gem 'twitter-bootstrap-rails', :git => 'https://github.com/seyhunak/twitter-bootstrap-rails.git'
