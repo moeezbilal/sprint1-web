@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Rails Bootstrap Base Application
  
 ## Overview
@@ -47,3 +48,7 @@ See issues - [rails-bootstrap-base-app/issues](https://github.com/kevbaker/rails
 trial
 =====
 >>>>>>> 7d198ad00f0fb294500049f83cd849c833eed813
+=======
+sprint1-web
+===========
+>>>>>>> b794ac48ad0acc10bb70c3760d1c09d5998cf3ac
